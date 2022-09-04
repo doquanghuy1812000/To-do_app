@@ -1,4 +1,4 @@
-﻿# To-do_app
+﻿# To-do_app(fix ở branch_01)
 //Do quang  aka
 //Thêm gì đó
 //Dong 2
